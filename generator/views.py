@@ -6,7 +6,7 @@ import random
 def home(request):
     return render(request, 'generator/home.html')
     
-hello
+
 
 
 def password(request):
